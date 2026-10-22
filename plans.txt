@@ -1,0 +1,3 @@
+1|Dirt Tier|2GB RAM (Vanilla/Bedrock)|5.0
+2|Iron Tier|4GB RAM (Paper/Spigot - Plugins)|15.0
+3|Diamond Tier|8GB RAM (Forge/Fabric - Modpacks)|30.0
